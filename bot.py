@@ -22,8 +22,8 @@ def start(update: Update, context: CallbackContext):
         job.schedule_removal()
 
     # gui tn
-    update.message.reply_text("Chào mừng quý khách đã đến với 789P -test nhà cái cá cược uy tín nhất, đa dạng thể loại trò chơi...")
-    update.message.reply_text("Chào mừng quý khách đến với CSKH 24/7 của 789P-test. Em có thể hỗ trợ được gì cho quý khách ạ?")
+    update.message.reply_text("Chào mừng quý khách đã đến với 789P nhà cái cá cược uy tín nhất, đa dạng thể loại trò chơi...")
+    update.message.reply_text("Chào mừng quý khách đến với CSKH 24/7 của 789P. Em có thể hỗ trợ được gì cho quý khách ạ?")
     update.message.reply_text("789P xin thông báo sự kiện Khuyến Mãi bí ẩn mỗi ngày...")
 
     # gửi anrh
